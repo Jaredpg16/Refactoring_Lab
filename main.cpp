@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
 
+//Name: Jared Peralta
+//Date:04/06/2026
+// Purpose: IDE Activity - Managing Multiple File Applications
 // The following classes are declared inline for students to refactor
 // into separate header and implementation files.
 
